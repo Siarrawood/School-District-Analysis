@@ -9,22 +9,27 @@ The school district discovered the standardized test scores for the ninth grader
 
 # Results
 ## School District Summary
+Whem looking at average scores and passing percentages among the fifteen high schools in our dataset, the average math score dropped .1, but the average reading score remained unaffected. The three metrics of percentages of passing all decreased by approximately .1%-.3%. 
 ### Prior to Data Removal
 ![](Images/Original_District_Summary.png)
 ### After Data Removal
 ![](Images/District_Summary.png)
-Whem looking at average scores and passing percentages among the fifteen high schools in our dataset, the average math score dropped .1, but the average reading score remained unaffected. The three metrics of percentages of passing all decreased by approximately .1%-.3%. 
 
 ## School Summary
+The school summary was affected greatly at first because when we just removed the data the passing percentages for reading, math, and the overall passing percentage for Thomas High School all drastically dropped from around 90% to approximately 65%- 70%. You can see Thomas High School in the last column of the pictures below. This would ultimately affect the performance relative to the other schools as Thomas High School would not be ranked in the top 5 with an overall passing rate below 70%. 
+
 ### Prior to Data Removal
 ![](Images/Original_School_Summary.png)
 ### After Data Removal
 ![](Images/School_Summary.png)
-The school summary was affected greatly at first because when we just removed the data the passing percentages for reading, math, and the overall passing percentage for Thomas High School all drastically dropped from around 90% to approximately 65%. This would ultimately affect the performance relative to the other schools as Thomas High School would not be ranked in the top 5 with an overall passing rate below 70%.
 
-However, once we recalculated our data with just the 10th-12th graders scores, the data was much less affected as shown below. Now, the school summary is nearly the same. The top five schools and bottom five schools remain unchanged, and Thomas High School remains in the top 5.
+However, once we recalculated our data with just the 10th-12th graders scores, the data was much less affected as shown below. Now, the school summary is nearly the same. The top five schools and bottom five schools remain unchanged, and Thomas High School remains in the top 5 as now the numbers decreased by less than 1%.
+
 ![](Images/School_Summary2.png)
+
+### Top Five Schools
 ![](Images/Top_Schools.png)
+### Bottom Five Schools
 ![](Images/Bottom_Schools.png)
 
 # Summary
