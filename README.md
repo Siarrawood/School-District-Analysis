@@ -36,9 +36,15 @@ However, once we recalculated our data with just the 10th-12th graders scores, t
 The data removal did not affect the math and reading scores by grade. As shown below, the ninth graders math and reading scores from Thomas High School show "nan". All other data remained intact.
 
 ### Prior to Data Removal
-![](Images/Original_Math_By_Grade.png) ![](Original_Reading_By_Grade.png)
+#### Math
+![](Images/Original_Math_By_Grade.png)
+#### Reading
+![](Images/Original_Reading_By_Grade.png)
 ### After Data Removal
-![](Math_By_Grade.png) ![](Reading_By_Grade.png)
+#### Math
+![](Images/Math_By_Grade.png)
+#### Reading
+![](Images/Reading_By_Grade.png)
 ## Math and Reading Scores by School Spending 
 
 ## Math and Reading Scores by School Size
