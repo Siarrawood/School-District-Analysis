@@ -23,7 +23,7 @@ The school summary was affected greatly at first because when we just removed th
 ### After Data Removal
 ![](Images/School_Summary.png)
 
-However, once we recalculated our data with just the 10th-12th graders scores, the data was much less affected as shown below. Now, the school summary is nearly the same. The top five schools and bottom five schools remain unchanged, and Thomas High School remains in the top 5 as now the numbers decreased by less than 1%.
+However, once we recalculated our data with just the 10th-12th graders scores, the data was much less affected as shown below. Now, the school summary is nearly the same. The top five schools and bottom five schools remain unchanged, and Thomas High School continues to stay in the top 5 as now the numbers have decreased by less than just 1%.
 
 ![](Images/School_Summary2.png)
 
@@ -31,5 +31,18 @@ However, once we recalculated our data with just the 10th-12th graders scores, t
 ![](Images/Top_Schools.png)
 ### Bottom Five Schools
 ![](Images/Bottom_Schools.png)
+
+## Math and Reading Scores by Grade
+The data removal did not affect the math and reading scores by grade. As shown below, the ninth graders math and reading scores from Thomas High School show "nan". All other data remained intact.
+
+### Prior to Data Removal
+![](Images/Original_Math_By_Grade.png) ![](Original_Reading_By_Grade.png)
+### After Data Removal
+![](Math_By_Grade.png) ![](Reading_By_Grade.png)
+## Math and Reading Scores by School Spending 
+
+## Math and Reading Scores by School Size
+
+## Math and Reading Scores by School Type
 
 # Summary
