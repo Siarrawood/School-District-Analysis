@@ -9,7 +9,9 @@ The school district discovered the standardized test scores for the ninth grader
 
 # Results
 ## School District Summary
+### Prior to Data Removal
 ![](Images/Original_District_Summary.png)
+### After Data Removal
 ![](Images/District_Summary.png)
 Whem looking average scores and passing percentages among the fifteen high schools in our dataset, the average math score dropped .1, but the average reading score remained unaffected. The three metrics of percentages of passing all decreased by approximately .1%-.3%. 
 
