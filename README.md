@@ -45,10 +45,30 @@ The data removal did not affect the math and reading scores by grade. As shown b
 ![](Images/Math_By_Grade.png)
 #### Reading
 ![](Images/Reading_By_Grade.png)
+
 ## Math and Reading Scores by School Spending 
+The data removal also did not make a difference in the math and reading scores by school spending. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
+
+### Prior to Data Removal
+![](Images/Original_Spending.png)
+### After Data Removal
+![](Images/Spending.png)
 
 ## Math and Reading Scores by School Size
+Again, the data removal did not make a difference in the math and reading scores by school size. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
+
+### Prior to Data Removal
+![](Images/Original_Size.png)
+### After Data Removal
+![](Images/Size.png)
 
 ## Math and Reading Scores by School Type
+Lastly, the data removal did not make a difference in the math and reading scores by school type either. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
+
+### Prior to Data Removal
+![](Images/Original_School_Type.png)
+### After Data Removal
+![](Images/School_Type.png)
 
 # Summary
+Since the data removal made a negligible change in the data, 
