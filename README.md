@@ -55,7 +55,7 @@ The data removal also did not make a difference in the math and reading scores b
 ![](Images/Spending.png)
 
 ## Math and Reading Scores by School Size
-Again, the data removal did not make a difference in the math and reading scores by school size. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
+Again, the data replacement did not make a difference in the math and reading scores by school size. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
 
 ### Prior to Data Removal
 ![](Images/Original_Size.png)
@@ -63,7 +63,7 @@ Again, the data removal did not make a difference in the math and reading scores
 ![](Images/Size.png)
 
 ## Math and Reading Scores by School Type
-Lastly, the data removal did not make a difference in the math and reading scores by school type either. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
+Lastly, the data replacement did not make a difference in the math and reading scores by school type either. As shown below, the data is the exact same without the ninth grade data from Thomas High School.
 
 ### Prior to Data Removal
 ![](Images/Original_School_Type.png)
@@ -71,4 +71,4 @@ Lastly, the data removal did not make a difference in the math and reading score
 ![](Images/School_Type.png)
 
 # Summary
-Since the data removal made a negligible change in the data, 
+In summary, the data removal of the altered ninth grade data from Thomas High School and the replacement with the data that only included tenth through twelfth grade data from Thomas High School did not affect the school district analysis. The change was negligible and most everything remained the same. If we had not replaced the data, then there would have been signifcant changes to the analysis. Before the replacement, the percentage for passing math, reading, and overall for Thomas High School were extremely impacted and decreased significantly. Once the data was recaluclated without the ninth grade data, the difference was practically imperceptible.
